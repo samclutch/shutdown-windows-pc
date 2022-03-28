@@ -1,2 +1,4 @@
 # shutdown-windows-pc
-#install python and run the code
+#install python 
+#run the main.py code
+
